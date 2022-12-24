@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Vaivén</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="icon" type="image/png" href="../favicon_32.png">
+<style>
+map area {
+	outline: none;
+}
+</style>
+</head>
+<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="text-align: center;">
+
+
+<img src="S1Vaiven.jpg" width="1060" height="795" border="0" alt="" usemap="#S1Vaiven_Map">
+<map name="S1Vaiven_Map">
+<area shape="poly" alt="" coords="800,351, 850,354, 854,402, 894,435, 902,487, 890,527, 796,552, 728,551, 740,459, 768,410, 804,403, 800,351" href="https://open.spotify.com/album/1n2rH0hZRH4dZbpg2nj3Gi" title="Dani">
+<area shape="poly" alt="" coords="727,302, 747,289, 750,238, 780,236, 794,260, 791,290, 838,331, 799,335, 797,392, 761,410, 755,410, 742,409, 729,409, 723,408, 724,401, 724,386, 725,365, 726,343, 726,322, 727,308, 727,302" href="https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z" title="Fabri">
+<area shape="poly" alt="" coords="628,305, 655,293, 649,243, 683,236, 723,317, 720,372, 702,403, 629,398, 620,370, 628,305" href="https://open.spotify.com/album/5FLtrjVRAXfcHlEYATjl59" title="Mer">
+<area shape="poly" alt="" coords="548,217, 584,222, 611,303, 621,390, 582,393, 584,445, 579,445, 567,444, 552,443, 540,442, 534,440, 534,434, 533,421, 533,406, 533,394, 533,389, 493,379, 494,324, 511,291, 533,278, 548,217" href="https://open.spotify.com/album/4WCx0hq6o1XKAXepKpVPPX" title="Marina">
+<area shape="poly" alt="" coords="416,270, 435,250, 446,201, 478,202, 507,280, 483,339, 484,388, 433,408, 404,381, 417,343, 402,321, 416,270" href="https://open.spotify.com/album/3789CbtQTm8UOCZrLoQLXo" title="Cori">
+<area shape="poly" alt="" coords="316,253, 332,237, 326,206, 335,184, 368,187, 380,218, 365,248, 393,258, 407,274, 399,379, 352,385, 397,292, 375,297, 352,336, 316,253" href="https://open.spotify.com/album/1F9PzQAiLs7ISU4ifNJNHy" title="Tincho">
+<area shape="poly" alt="" coords="253,288, 252,236, 277,215, 301,227, 318,285, 331,297, 345,349, 327,398, 263,406, 228,353, 233,302, 253,288" href="http://https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds" title="Pau">
+<area shape="poly" alt="" coords="163,324, 180,283, 179,226, 201,207, 224,216, 244,290, 227,302, 221,356, 235,441, 230,466, 182,469, 172,397, 163,324" href="https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO" title="Vane">
+<area shape="poly" alt="" coords="229,688, 154,688, 78,688, 78,611, 78,534, 154,534, 229,534, 229,611, 229,688" href="https://www.ensambles.musica.ar/ ">
+</map>
+	
+<p style="font-size:130%;color:BBBBBB;font-family:verdana;">Hac&eacute; click en tu foto para acceder al disco de regalo<br>
+&iexcl;Esperamos que lo disfrutes!</p>
+
+</body>
+</html>
