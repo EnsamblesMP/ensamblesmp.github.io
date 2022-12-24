@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>La invisible</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="icon" type="image/png" href="../favicon_32.png">
+<style>
+map area {
+	outline: none;
+}
+</style>
+</head>
+<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="text-align: center;">
+
+
+<img src="S2LaInvisible.jpg" width="1060" height="795" border="0" alt="" usemap="#S2LaInvisible_Map">
+<map name="S2LaInvisible_Map">
+<area shape="poly" alt="" coords="824,312, 844,306, 872,263, 915,250, 911,208, 930,190, 958,198, 955,245, 990,258, 1023,290, 1027,317, 981,361, 979,421, 872,411, 876,317, 847,339, 825,339, 824,312" href="https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg" title="Marian">
+<area shape="poly" alt="" coords="694,293, 742,277, 752,229, 791,231, 797,270, 791,292, 818,312, 826,379, 810,464, 792,453, 792,375, 771,418, 730,403, 687,412, 662,455, 654,371, 694,293" href="https://open.spotify.com/album/3pUTMWgU6Y4q4bb3WyMBsW" title="Guille">
+<area shape="poly" alt="" coords="589,374, 635,263, 673,246, 699,195, 730,202, 734,253, 737,270, 685,292, 653,377, 610,422, 578,446, 589,374" href="https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH" title="Ceci">
+<area shape="poly" alt="" coords="482,272, 501,262, 500,213, 511,195, 543,199, 549,223, 538,266, 561,284, 568,331, 568,401, 554,421, 551,394, 539,344, 491,310, 482,272" href="https://open.spotify.com/album/1ZUhnR2vEzjo0VHrZf14d5" title="Javi">
+<area shape="poly" alt="" coords="390,338, 417,329, 411,278, 426,245, 472,249, 480,293, 477,316, 501,327, 531,348, 549,420, 538,478, 543,578, 414,599, 401,486, 415,461, 421,407, 402,373, 376,370, 390,338" href="https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO" title="Fati">
+<area shape="poly" alt="" coords="247,533, 247,525, 248,508, 249,484, 250,459, 250,436, 251,419, 251,412, 315,364, 318,317, 349,306, 372,318, 379,369, 407,387, 414,437, 401,486, 409,542, 324,572, 338,644, 304,647, 288,570, 247,533" href="https://open.spotify.com/album/5v7NC8IVGmbTVFuTZhLvES" title="Cori">
+<area shape="poly" alt="" coords="225,418, 234,335, 269,299, 271,236, 301,217, 325,233, 338,281, 373,293, 396,331, 379,338, 368,300, 331,288, 305,307, 299,369, 237,432, 225,418" href="https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa" title="Lili">
+<area shape="poly" alt="" coords="88,517, 86,484, 82,479, 73,468, 62,455, 52,443, 48,438, 49,431, 51,417, 54,397, 57,376, 60,357, 62,343, 62,337, 123,292, 112,216, 136,195, 178,208, 183,252, 176,291, 220,323, 219,395, 223,526, 88,517" href="https://open.spotify.com/album/3nYjuY4dXgUHza1eD1K3tI" title="Nico">
+<area shape="poly" alt="" coords="199,689, 123,689, 48,689, 48,612, 48,535, 123,535, 199,535, 199,612, 199,689" href="https://www.ensambles.musica.ar/ ">
+</map>
+	
+<p style="font-size:130%;color:BBBBBB;font-family:verdana;">Hac&eacute; click en tu foto para acceder al disco de regalo<br>
+&iexcl;Esperamos que lo disfrutes!</p>
+
+</body>
+</html>
